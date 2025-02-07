@@ -14,7 +14,7 @@
 - **Backend:** PHP, MySQL
 - **Version Control:** Git, GitHub
 - **Tools & Platforms:** VS Code, Android Studio
-- **Learning:** React, Node.js, Express.js, MongoDB
+- **Learning:** React, Node.js, Express.js, MongoDB, XML
 
 ## 📌 Projects
 
