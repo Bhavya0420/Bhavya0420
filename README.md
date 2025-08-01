@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 **2nd Year B.Tech - Computer Science Student**  
+🎓 **Undergrad B.Tech - Computer Science Student**  
 💻 Passionate about coding, Problem solving, web development, and exploring new technologies.  
 🌱 Currently learning advanced web development, backend technologies and Android development.  
 📌 Open to collaborations, internships, and exciting projects!
