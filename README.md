@@ -1,4 +1,8 @@
-- # Hi there! 👋 I'm Bhavya Sree Manam
+# Hi there! 👋 I'm Bhavya Sree Manam
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Bhavya0420&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavya0420" /> 
+</p>
+
 
 ## 🚀 About Me
 
